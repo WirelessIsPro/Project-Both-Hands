@@ -1,0 +1,8 @@
+Project Both Hands!
+
+This is a Project Im working on for Unity VR Games so more support Both Hands because not everyone is Right Handed or Left Handed or maybe just dont even have a L or R Controller
+This Will or Does Contain
+1. Dead Controller Support - Will use XR to see what Controllers are active/connected, if not just move it to a point, disable its collider  etc,
+2. Full Support for Either hand(eg a trigger) most games rely on the user having a right controller you can use both or detect if one isnt active 
+
+There is probably more to come, I'm just working on the actual package for it
