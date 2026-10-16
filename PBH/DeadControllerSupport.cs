@@ -18,6 +18,6 @@ public class DeadControllerSupport : MonoBehaviour
         InputDevices.GetDevicesWithCharacteristics(LeftControllerFlags, connectedLeftControllers);
 
         if (connectedLeftControllers.Count == 0)
-            transform.SetPositionAndRotation(chestEmpty.position, chestEmpty.rotation);
+            transform.SetPositionAndRotation(Point.position, Point.rotation);
     }
 }
